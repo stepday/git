@@ -17,7 +17,7 @@ git branch
 </pre>
 切换到某个分支用下列指令:
 <pre>
-git branch origin-stepday
+git checkout origin-stepday
 </pre>
 
 #### 3、修改分支代码后按照日常操作提交修改
